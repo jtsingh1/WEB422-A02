@@ -1,0 +1,18 @@
+#trips-table tr:hover {
+    cursor: pointer;
+  }
+  
+  #leaflet {
+    height: 400px;
+  }
+  
+  .Subscriber {
+    background-color: #F1C40F; /* Yellow */
+    color: #000000; /* Black */
+  }
+  
+  .Customer {
+    background-color: #3498DB; /* Blue */
+    color: #FFFFFF; /* White */
+  }
+  
